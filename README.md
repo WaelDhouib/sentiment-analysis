@@ -1,7 +1,7 @@
-data_project
+Tweets Sentiment Analysis
 ==============================
 
-This is a data project
+The 'Tweets Sentiment Analysis' project centered around the hashtag #StressAwarenessDay is a testament to the power of data-driven insights in understanding and addressing critical societal issues. To initiate this endeavor, we embarked on a data collection journey by scraping Twitter for tweets using the designated hashtag. This initial step allowed us to collect real-time data, capturing a snapshot of conversations, concerns, and support related to stress awareness on the 7th of November 2018.
 
 Project Organization
 ------------
@@ -54,4 +54,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>.</small></p>
