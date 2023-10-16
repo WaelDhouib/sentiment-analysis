@@ -85,5 +85,8 @@ target/
 *.swp
 *.swo
 
+# Workspace file
+*.code-workspace
+
 # Mypy cache
 .mypy_cache/
